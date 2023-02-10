@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "985352351105",
+    "project_id": "geze-om",
+    "storage_bucket": "geze-om.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985352351105:android:936ba2be01e2dd6b41cc80",
+        "android_client_info": {
+          "package_name": "com.example.user_geze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985352351105-qf26uvn06a5sok07o7s7ltjpo6r0799j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbF4eomQkox2Z3wZCJCrdIFyUOEqk4iCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985352351105-qf26uvn06a5sok07o7s7ltjpo6r0799j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985352351105-2hb02ppfc9ltka1uuu0u040lb0gfu7nf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.userGeze"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
